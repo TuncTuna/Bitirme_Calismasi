@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c \"from PyQt6.QtWidgets import QApplication; print\\('PyQt6 ok'\\)\")",
+      "Bash(dpkg -l)"
+    ]
+  }
+}
